@@ -19,6 +19,7 @@ class ViewModel  {
     }
     var myModel = [CountryElement]()
     
+
     //step 2
     /// Request API
     func requestAPI(completionHandler: @escaping ([CountryElement]) -> Void) {
