@@ -52,8 +52,8 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
+                                            <outlet property="captialLbl" destination="GOh-DC-Bof" id="NZt-a1-rRv"/>
                                             <outlet property="countryLbl" destination="KwI-eX-PFV" id="WFl-Bc-7w5"/>
-                                            <outlet property="currencyLbl" destination="GOh-DC-Bof" id="CV3-qM-2o5"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
